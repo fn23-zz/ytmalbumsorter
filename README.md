@@ -1,4 +1,4 @@
-# YouTube Music Album Sorter
+# YouTube Music Album Sorter (ytmalbumsorter)
 
 YouTube Music でアルバムを検索した際に、リリース年でソートするユーザースクリプトです。
 
